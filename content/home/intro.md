@@ -1,23 +1,19 @@
 ---
-# Use the Intro widget of the Blog template
 widget: about.avatar
-
-# This file represents a page section.
-headless: true
-
-# Order that this section will appear in.
-weight: 10
-
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
-
 author: admin
-
+widget_id: "HALLO "
+headless: true
+weight: 10
+title: ✏️ Blog Template
+subtitle: For [Wowchemy Website Builder](https://wowchemy.com/)
 design:
   background:
-    color: '#090a0b'
+    color: "#12559a"
     text_color_light: true
     video:
       path: intro.webm
-#  css_class: fullscreen
+    gradient_start: "#2b1313"
 ---
+achmad ridwan 
+
+205411108
