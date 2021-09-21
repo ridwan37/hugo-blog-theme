@@ -14,6 +14,8 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations: []
+education:
+  courses: []
 email: wanmen17@gmail.com
 superuser: true
 ---
