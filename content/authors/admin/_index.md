@@ -13,9 +13,8 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
+email: wanmen17@gmail.com
 superuser: true
 ---
 selalu semangat jalani hari-hari
